@@ -1,1 +1,1 @@
-* Arquivos de estudo do curso de C# com .net da plataforma dio.me
+* Arquivos de estudo do curso de C# .NET da plataforma dio.me
