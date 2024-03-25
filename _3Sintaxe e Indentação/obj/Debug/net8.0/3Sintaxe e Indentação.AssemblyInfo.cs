@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("2.Introdução as IDEs e Configuração de Ambiente .NET")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("3Sintaxe e Indentação")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+564212c41294e814c66208b802d15e10301263a8")]
-[assembly: System.Reflection.AssemblyProductAttribute("2.Introdução as IDEs e Configuração de Ambiente .NET")]
-[assembly: System.Reflection.AssemblyTitleAttribute("2.Introdução as IDEs e Configuração de Ambiente .NET")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d8e934fe9df47f8ec54bc5186ab41f9eb9268f1")]
+[assembly: System.Reflection.AssemblyProductAttribute("3Sintaxe e Indentação")]
+[assembly: System.Reflection.AssemblyTitleAttribute("3Sintaxe e Indentação")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
