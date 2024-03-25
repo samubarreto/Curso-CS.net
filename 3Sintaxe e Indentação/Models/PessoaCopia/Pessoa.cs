@@ -7,7 +7,7 @@ namespace _3Sintaxe_e_Indentação.Models.PessoaCopia
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
         public int Idade { get; set; }
         public void Apresentar()
         {
