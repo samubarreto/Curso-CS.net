@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.exe
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.deps.json
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.dll
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\bin\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.pdb
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.dll
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\refint\2.Introdução as IDEs e Configuração de Ambiente .NET.dll
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.pdb
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\2.Introdução as IDEs e Configuração de Ambiente .NET.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\2.Introdução as IDEs e Configuração de Ambiente .NET\obj\Debug\net8.0\ref\2.Introdução as IDEs e Configuração de Ambiente .NET.dll
