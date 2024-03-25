@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3Sintaxe e Indentação")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d21bfd81f7725be0f552aea0b4141084b19ae19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef41f0407ff6a9dfd9c62bd6081cb9c79f0ccedd")]
 [assembly: System.Reflection.AssemblyProductAttribute("3Sintaxe e Indentação")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3Sintaxe e Indentação")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
