@@ -1,6 +1,6 @@
 <div align="center">
 
-  Arquivos de estudo da formação de C# .NET da plataforma dio.me: https://web.dio.me/track/formacao-dotnet-developer <br>
+  Arquivos de estudo da formação de C# .NET da plataforma dio.me: <br> https://web.dio.me/track/formacao-dotnet-developer <br>
 
   <hr>
 
