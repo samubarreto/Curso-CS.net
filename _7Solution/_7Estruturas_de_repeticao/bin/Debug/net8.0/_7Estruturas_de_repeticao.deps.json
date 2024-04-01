@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_7Estruturas_de_repeticao/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeClasses": "1.0.0"
+        },
+        "runtime": {
+          "_7Estruturas_de_repeticao.dll": {}
+        }
+      },
+      "BibliotecaDeClasses/1.0.0": {
+        "runtime": {
+          "BibliotecaDeClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_7Estruturas_de_repeticao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

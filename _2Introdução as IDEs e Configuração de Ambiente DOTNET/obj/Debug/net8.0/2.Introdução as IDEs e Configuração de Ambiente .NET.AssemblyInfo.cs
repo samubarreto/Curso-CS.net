@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2.Introdução as IDEs e Configuração de Ambiente .NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af7bc461b70bf082191addb96f390d840078e612")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+436153bdf72afbd8d5b27e57cc5032e2b96af45c")]
 [assembly: System.Reflection.AssemblyProductAttribute("2.Introdução as IDEs e Configuração de Ambiente .NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2.Introdução as IDEs e Configuração de Ambiente .NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
