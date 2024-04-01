@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_8Array_e_Listas_em_CS/1.0.0": {
+        "runtime": {
+          "_8Array_e_Listas_em_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_8Array_e_Listas_em_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
