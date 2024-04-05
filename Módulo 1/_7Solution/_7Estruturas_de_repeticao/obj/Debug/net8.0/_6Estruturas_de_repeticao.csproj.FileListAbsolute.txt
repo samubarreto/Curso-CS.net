@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\bin\Debug\net8.0\_6Estruturas_de_repeticao.exe
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\bin\Debug\net8.0\_6Estruturas_de_repeticao.deps.json
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\bin\Debug\net8.0\_6Estruturas_de_repeticao.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\bin\Debug\net8.0\_6Estruturas_de_repeticao.dll
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\bin\Debug\net8.0\_6Estruturas_de_repeticao.pdb
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.dll
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\refint\_6Estruturas_de_repeticao.dll
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.pdb
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\_6Estruturas_de_repeticao.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\_6Estruturas_de_repeticao\obj\Debug\net8.0\ref\_6Estruturas_de_repeticao.dll

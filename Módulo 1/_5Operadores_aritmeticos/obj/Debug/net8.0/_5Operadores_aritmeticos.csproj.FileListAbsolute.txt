@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\bin\Debug\net8.0\_5Operadores_aritmeticos.exe
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\bin\Debug\net8.0\_5Operadores_aritmeticos.deps.json
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\bin\Debug\net8.0\_5Operadores_aritmeticos.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\bin\Debug\net8.0\_5Operadores_aritmeticos.dll
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\bin\Debug\net8.0\_5Operadores_aritmeticos.pdb
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.dll
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\refint\_5Operadores_aritmeticos.dll
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.pdb
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\_5Operadores_aritmeticos.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\_5Operadores_aritmeticos\obj\Debug\net8.0\ref\_5Operadores_aritmeticos.dll

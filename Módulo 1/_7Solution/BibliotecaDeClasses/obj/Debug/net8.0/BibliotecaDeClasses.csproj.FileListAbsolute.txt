@@ -1,0 +1,12 @@
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\bin\Debug\net8.0\BibliotecaDeClasses.deps.json
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\bin\Debug\net8.0\BibliotecaDeClasses.dll
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\bin\Debug\net8.0\BibliotecaDeClasses.pdb
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\BibliotecaDeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\BibliotecaDeClasses.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\BibliotecaDeClasses.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\BibliotecaDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\BibliotecaDeClasses.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\BibliotecaDeClasses.dll
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\refint\BibliotecaDeClasses.dll
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\BibliotecaDeClasses.pdb
+C:\Users\Interfocus\Desktop\.net\_7Solution\BibliotecaDeClasses\obj\Debug\net8.0\ref\BibliotecaDeClasses.dll

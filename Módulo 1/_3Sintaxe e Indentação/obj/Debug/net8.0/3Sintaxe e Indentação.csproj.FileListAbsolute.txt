@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\bin\Debug\net8.0\3Sintaxe e Indentação.exe
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\bin\Debug\net8.0\3Sintaxe e Indentação.deps.json
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\bin\Debug\net8.0\3Sintaxe e Indentação.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\bin\Debug\net8.0\3Sintaxe e Indentação.dll
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\bin\Debug\net8.0\3Sintaxe e Indentação.pdb
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.dll
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\refint\3Sintaxe e Indentação.dll
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.pdb
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\3Sintaxe e Indentação.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\3Sintaxe e Indentação\obj\Debug\net8.0\ref\3Sintaxe e Indentação.dll
