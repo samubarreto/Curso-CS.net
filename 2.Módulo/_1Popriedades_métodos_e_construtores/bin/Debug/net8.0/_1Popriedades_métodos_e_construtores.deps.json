@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_1Popriedades_métodos_e_construtores/1.0.0": {
+        "runtime": {
+          "_1Popriedades_métodos_e_construtores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_1Popriedades_métodos_e_construtores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.exe
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.deps.json
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.dll
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.pdb
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.dll
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\refint\_1Popriedades_métodos_e_construtores.dll
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.pdb
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\Módulo 2\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\ref\_1Popriedades_métodos_e_construtores.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.exe
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.deps.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\bin\Debug\net8.0\_1Popriedades_métodos_e_construtores.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\refint\_1Popriedades_métodos_e_construtores.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\_1Popriedades_métodos_e_construtores.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_1Popriedades_métodos_e_construtores\obj\Debug\net8.0\ref\_1Popriedades_métodos_e_construtores.dll
