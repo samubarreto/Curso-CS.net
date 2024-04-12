@@ -23,3 +23,29 @@
                 };
             }
     ```
+
+```csharp
+private int myVar;
+
+public int MyProperty
+
+  {
+
+    get { return myVar;}
+
+    set{myVar=value;}
+
+  }
+```
+
+`public int MyProperty { get; set; }`
+
+Se tiver só get não da pra atribuir pelo código, se tiver só set não da pra ler pelo código
+
+* Métodos
+  * Bloco de código que contém uma série de instruções.
+  * Métodos podem ser usados dentro de métodos
+    * ![1712778704170](image/anotações/1712778704170.png)
+      * Alunos é uma lista de pessoas
+* Construtores
+  * Serve pra definir valores padrões de classes

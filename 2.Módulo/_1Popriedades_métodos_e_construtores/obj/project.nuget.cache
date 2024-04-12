@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wR1d1jDr0NVhF9zwGDZsvMWXDtc5dNQ51uwbS+rx7T98OJsn72WrRRlUheLTW1+rrBow7f+5SP+5jJehCZ3z6w==",
+  "dgSpecHash": "CrmLoqvJjw1AxAHHSyVrrNCV7Zv4Ir7o47iOmYqiUWxKMxH26aYT1jk+ufFm6SMMLtJuIvldMUR7R3BWXAqDRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Interfocus\\Desktop\\.net\\2.Módulo\\_1Popriedades_métodos_e_construtores\\_1Popriedades_métodos_e_construtores.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Interfocus\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -7,15 +7,17 @@ namespace _1Popriedades_métodos_e_construtores.Models
 {
 	public class Pessoa
 	{
-		private string? _Nome;
-		private int? _Idade;
+		public Pessoa(string nome, string sobrenome, int idade)
+		{
+			Nome = nome;
+			Sobrenome = sobrenome;
+			Idade = idade;
+		}
+		private string? _Nome; // privates não são acessíveis no program.cs
 
 		public string? Nome
 		{
-			get
-			{
-				return _Nome.ToUpper();
-			}
+			get => _Nome;
 
 			// get => _nome.ToUpper();
 
@@ -29,13 +31,18 @@ namespace _1Popriedades_métodos_e_construtores.Models
 			}
 
 			// set => if (value == "") throw new ArgumentException("O nome não pode ser vazio"); _Nome = value;
-
 		}
 
+		public string? Sobrenome { get; set; }
+
+		public string? NomeCompleto => $"{Nome} {Sobrenome}".ToUpper(); // só get
+
+		private int? _Idade; // privates não são acessíveis no program.cs
 		public int? Idade
 		{
 			get => _Idade;
 
+			set
 			{
 				if (value < 0)
 				{
@@ -47,7 +54,7 @@ namespace _1Popriedades_métodos_e_construtores.Models
 
 		public void Apresentar()
 		{
-			Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+			Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
 		}
 	}
 }
