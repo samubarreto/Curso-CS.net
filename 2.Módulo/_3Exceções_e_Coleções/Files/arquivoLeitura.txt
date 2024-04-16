@@ -1,7 +1,10 @@
 linha 1 do arquivo de leitura
-linha 2 do arquvio de leitura koasdfalsdjfasd´
-faç~kxcf 
-açdsfk adç~l
-vskdflskdfvlç
-sdfhvsdf
- s
+linha 2 do arquvio de leitura
+linha 3 do arquvio de leitura
+linha 4 do arquvio de leitura
+linha 5 do arquvio de leitura
+linha 6 do arquvio de leitura
+linha 7 do arquvio de leitura
+linha 8 do arquvio de leitura
+linha 9 do arquvio de leitura
+linha 10 do arquvio de leitura
