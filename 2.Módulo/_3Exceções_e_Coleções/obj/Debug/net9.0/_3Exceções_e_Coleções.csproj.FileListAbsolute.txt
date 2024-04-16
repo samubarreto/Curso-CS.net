@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\bin\Debug\net9.0\_3Exceções_e_Coleções.exe
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\bin\Debug\net9.0\_3Exceções_e_Coleções.deps.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\bin\Debug\net9.0\_3Exceções_e_Coleções.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\bin\Debug\net9.0\_3Exceções_e_Coleções.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\bin\Debug\net9.0\_3Exceções_e_Coleções.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\refint\_3Exceções_e_Coleções.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\_3Exceções_e_Coleções.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_3Exceções_e_Coleções\obj\Debug\net9.0\ref\_3Exceções_e_Coleções.dll

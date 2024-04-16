@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\bin\Debug\net9.0\_2Manipulando_valores_cs.exe
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\bin\Debug\net9.0\_2Manipulando_valores_cs.deps.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\bin\Debug\net9.0\_2Manipulando_valores_cs.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\bin\Debug\net9.0\_2Manipulando_valores_cs.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\bin\Debug\net9.0\_2Manipulando_valores_cs.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\refint\_2Manipulando_valores_cs.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\_2Manipulando_valores_cs.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_2Manipulando_valores_cs\obj\Debug\net9.0\ref\_2Manipulando_valores_cs.dll

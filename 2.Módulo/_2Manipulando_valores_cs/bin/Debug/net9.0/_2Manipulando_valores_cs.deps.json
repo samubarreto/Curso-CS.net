@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "_2Manipulando_valores_cs/1.0.0": {
+        "runtime": {
+          "_2Manipulando_valores_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_2Manipulando_valores_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Interfocus\\Desktop\\.net\\2.Módulo\\_2Manipulando_valores_cs\\_2Manipulando_valores_cs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Interfocus\\Desktop\\.net\\2.Módulo\\_2Manipulando_valores_cs\\_2Manipulando_valores_cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Interfocus\\Desktop\\.net\\2.Módulo\\_2Manipulando_valores_cs\\_2Manipulando_valores_cs.csproj",
+        "projectName": "_2Manipulando_valores_cs",
+        "projectPath": "C:\\Users\\Interfocus\\Desktop\\.net\\2.Módulo\\_2Manipulando_valores_cs\\_2Manipulando_valores_cs.csproj",
+        "packagesPath": "C:\\Users\\Interfocus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Interfocus\\Desktop\\.net\\2.Módulo\\_2Manipulando_valores_cs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Interfocus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.2.24157.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
