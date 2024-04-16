@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\bin\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.exe
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\bin\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.deps.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\bin\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\bin\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\bin\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\refint\_4Tuplas_Operador_Ternario_Desconstrucao_obj.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\_4Tuplas_Operador_Ternario_Desconstrucao_obj.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_4Tuplas_Operador_Ternario_Desconstrucao_obj\obj\Debug\net9.0\ref\_4Tuplas_Operador_Ternario_Desconstrucao_obj.dll
