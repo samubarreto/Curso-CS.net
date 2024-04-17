@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r94rTS7dUx/c2ZGkPbftwMiuA87CtWtGFkp9RJOaivz9FT2P822TT84d6oZRb8AGRArDIyoZeqBSz0/w9E9XZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Interfocus\\Desktop\\.net\\2.Módulo\\_5Nuget_Serializar_Atributos_no_cs\\_5Nuget_Serializar_Atributos_no_cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Interfocus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
