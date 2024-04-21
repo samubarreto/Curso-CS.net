@@ -4,6 +4,6 @@
 
   <hr>
 
-  [👉 Veja meu portfólio](https://samubarreto.github.io/Portfolio/)<br>
+  [👉 Veja meu portfólio aqui :)](https://samubarreto.github.io/Portfolio/)<br>
   
 </div>
