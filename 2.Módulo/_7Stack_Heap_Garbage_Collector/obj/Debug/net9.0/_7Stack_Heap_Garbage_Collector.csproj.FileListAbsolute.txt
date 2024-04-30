@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\bin\Debug\net9.0\_7Stack_Heap_Garbage_Collector.exe
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\bin\Debug\net9.0\_7Stack_Heap_Garbage_Collector.deps.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\bin\Debug\net9.0\_7Stack_Heap_Garbage_Collector.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\bin\Debug\net9.0\_7Stack_Heap_Garbage_Collector.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\bin\Debug\net9.0\_7Stack_Heap_Garbage_Collector.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\refint\_7Stack_Heap_Garbage_Collector.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\_7Stack_Heap_Garbage_Collector.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_7Stack_Heap_Garbage_Collector\obj\Debug\net9.0\ref\_7Stack_Heap_Garbage_Collector.dll
