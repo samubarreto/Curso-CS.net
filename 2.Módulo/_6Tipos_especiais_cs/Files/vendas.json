@@ -1,0 +1,16 @@
+[
+  {
+    "IdVenda": 0,
+    "Produto": "3DS",
+    "Preco": 600.00,
+    "DataVenda": "2024-04-16T16:52:54.5027035-03:00",
+    "Desconto": null
+  },
+  {
+    "IdVenda": 1,
+    "Produto": "Nintendo Switch Lite",
+    "Preco": 1500.00,
+    "DataVenda": "2024-04-16T16:52:54.5027035-03:00",
+    "Desconto": 10
+  }
+]

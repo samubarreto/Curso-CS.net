@@ -53,7 +53,7 @@ foreach (int item in pilha)
   Console.WriteLine(item);
 }
 
-pilha.Push(20) // insere o 20 no topo da pilha
+pilha.Push(20); // insere o 20 no topo da pilha
 
 foreach (int item in pilha)
 {

@@ -1,7 +1,7 @@
 ﻿// https://www.nuget.org/packages
 // dotnet add package Newtonsoft.Json
 using Newtonsoft.Json;
-using _5Nuget_Serializar_Atributos_no_cs.Models;
+using Models;
 
 try
 {
