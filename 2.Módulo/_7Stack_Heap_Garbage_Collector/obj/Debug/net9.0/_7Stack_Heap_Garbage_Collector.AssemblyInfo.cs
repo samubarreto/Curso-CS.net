@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_7Stack_Heap_Garbage_Collector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1577bd542bedf4c02a67763cbd883f501f90f650")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967ba032cd16c6060fef1706509f97584aab7736")]
 [assembly: System.Reflection.AssemblyProductAttribute("_7Stack_Heap_Garbage_Collector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_7Stack_Heap_Garbage_Collector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

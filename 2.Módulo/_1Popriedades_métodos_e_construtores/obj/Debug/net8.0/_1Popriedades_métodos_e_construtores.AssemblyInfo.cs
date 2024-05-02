@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_1Popriedades_métodos_e_construtores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe2017bd1f63431ba6d19f352a7777256b15891")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967ba032cd16c6060fef1706509f97584aab7736")]
 [assembly: System.Reflection.AssemblyProductAttribute("_1Popriedades_métodos_e_construtores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_1Popriedades_métodos_e_construtores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
