@@ -1,0 +1,15 @@
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\bin\Debug\net9.0\_2Desafio.exe
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\bin\Debug\net9.0\_2Desafio.deps.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\bin\Debug\net9.0\_2Desafio.runtimeconfig.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\bin\Debug\net9.0\_2Desafio.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\bin\Debug\net9.0\_2Desafio.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.sourcelink.json
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\refint\_2Desafio.dll
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.pdb
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\_2Desafio.genruntimeconfig.cache
+C:\Users\Interfocus\Desktop\.net\2.Módulo\_0Desafios\_2Desafio\obj\Debug\net9.0\ref\_2Desafio.dll
