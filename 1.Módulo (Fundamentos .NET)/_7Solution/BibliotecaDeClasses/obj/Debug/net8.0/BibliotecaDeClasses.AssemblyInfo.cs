@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("_7Estruturas_de_repeticao")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaDeClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ca823e9ccfc994fc6d56b9373b39f9acb099cc6")]
-[assembly: System.Reflection.AssemblyProductAttribute("_7Estruturas_de_repeticao")]
-[assembly: System.Reflection.AssemblyTitleAttribute("_7Estruturas_de_repeticao")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1878fda5d4a4a8b226c9526858155ec80ca4dde4")]
+[assembly: System.Reflection.AssemblyProductAttribute("BibliotecaDeClasses")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaDeClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
