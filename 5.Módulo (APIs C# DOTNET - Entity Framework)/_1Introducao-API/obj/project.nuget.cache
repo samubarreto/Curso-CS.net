@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "b38BdHkdbuS72r3xrmP/OfP3/gDsC56HyjpfTrTa10ovFp1+Z99TCgwRQhPOpFOgUnRcoc53epsk6jDx868L+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Interfocus\\Desktop\\.net\\5.Módulo (APIs C# DOTNET - Entity Framework)\\_1Introducao-API\\teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Interfocus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-preview.2.24128.4\\microsoft.aspnetcore.openapi.9.0.0-preview.2.24128.4.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Interfocus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
