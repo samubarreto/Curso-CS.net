@@ -1,0 +1,1 @@
+Configura e inicia uma VM no Azure, depois conecta e instala o IIS nessa VM com certificado RDP, daí é possível editar um html duma pastinha lá. Depois volta no Azure, vai em rede e adiciona regra de entrada com serviço http, protocólo tcp. Depois disso o html é acessável
