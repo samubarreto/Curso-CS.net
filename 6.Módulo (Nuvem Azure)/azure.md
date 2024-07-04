@@ -27,4 +27,13 @@ pra deletar é mais simples ainda, maneiro
 
 ![1720105244867](image/azure/1720105244867.png)
 
+retornar lista de blobs com um BlobDTO, uma entidade com as propriedades que serão usadas na listagem de blobs
+
+![1720133108478](image/azure/1720133108478.png)
+![1720133196434](image/azure/1720133196434.png)
+
 mas da maneira que está sendo feita acima não faz sentido pois arquivos com nomes iguais causariam diversos problemas. A biblioteca do blob da azure facilita bastante
+
+Azure Tables, dentro de um recurso de "Conta de Armazenamento"
+
+* armazena dados de maneira NoSQL
