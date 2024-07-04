@@ -1,0 +1,6 @@
+# Ignore as pastas bin e obj em qualquer lugar no repositório
+**/bin/
+**/obj/
+
+# Ignore a pasta .vs na raiz do repositório
+**/.vs/
