@@ -7,3 +7,12 @@ frameworks de teste MSTest, NUnit, xUnit
 -Solution.sln
 --Calculadora.csproj
 --CalculadoraTests.csproj
+
+
+dotnet new xunit
+
+dotnet test
+
+fact = um teste
+
+theory + inline data testa várias vezes com arranges diferentes
